@@ -11284,3 +11284,16 @@ body {
 .people-section {
   margin-top: 50px;
 }
+
+
+/* ================== WORK IN PROGRESS ====================== */
+.working {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 5rem;
+  padding: 2rem 0;
+  color: #212529;
+  background-color: #ffc100;
+  font-size: 2.5rem;
+}
